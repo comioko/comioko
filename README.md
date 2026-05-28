@@ -2,11 +2,10 @@
 
 [](https://github.com/kaygb#hithere)
 
-I'm kaygb, a backend developer. I like everything that Interests me.
+I'm comioko, a backend developer. I like everything that Interests me.
 
 - WebSite: [https://www.170601.xyz/](https://www.170601.xyz/)
 - Blog: [https://www.kezez.com/](https://www.kezez.com/)
-- QQ Group： [962303102](https://qm.qq.com/cgi-bin/qm/qr?k=-tso4BmPVXPSgqNjPhRCIg4GYZ8Llu_e&jump_from=webapi)
 
 [![](https://camo.githubusercontent.com/69b7153f0c55842f39135265cd5e619b082df2335931049952d588462664ad3b/68747470733a2f2f646174612e6a7364656c6976722e636f6d2f76312f7061636b6167652f67682f6b617967622f6b617967622f6261646765)](https://www.jsdelivr.com/package/gh/kaygb/kaygb) [![](https://camo.githubusercontent.com/9efe581f8aac7181f1ed1f89aa0dd1b5bd4c21bc7d12727b99131ab77d873385/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6b617967622f6b61796762)](https://github.com/kaygb/kaygb/blob/master/LICENSE)
 
